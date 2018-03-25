@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "39073428304",
+    "firebase_url": "https://teste-d4841.firebaseio.com",
+    "project_id": "teste-d4841",
+    "storage_bucket": "teste-d4841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39073428304:android:2207aafc49af59ff",
+        "android_client_info": {
+          "package_name": "com.duarte.junior.enfermagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39073428304-9mm283hhdvf005mgtt9dgjik05kq8atj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duarte.junior.enfermagem",
+            "certificate_hash": "04a2110b492cc35662cdad60fdc9618e479dbaa6"
+          }
+        },
+        {
+          "client_id": "39073428304-b3h72dob09nknaa8h5565n0bmcsfbie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdEhtfXNhG_n3bFz3o0LfuQoSBpCJkKg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39073428304-b3h72dob09nknaa8h5565n0bmcsfbie4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
